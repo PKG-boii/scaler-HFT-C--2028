@@ -2,9 +2,9 @@
 
 **Student Information:**
 - **Name:** Piyush Kumar Gupta
-- **SST Email:** piyush.gupta@sst.scaler.com / piyushkumarg.064@gmail.com
-- **Roll Number:** SST2028-064
-- **Repository:** [https://github.com/KnightKnight27/scaler-HFT-C--2028](https://github.com/KnightKnight27/scaler-HFT-C--2028)
+- **SST Email:** piyush.24bcs10332@sst.scaler.com
+- **Roll Number:** 24bcs10332
+
 
 ---
 
